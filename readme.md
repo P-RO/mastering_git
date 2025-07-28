@@ -1,3 +1,3 @@
 ## Hello, Git!
 
-- I'm adding htis from 'feature-brach-1'
+- I'm adding this from 'feature-brach-1'
